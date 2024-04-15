@@ -7,17 +7,6 @@
 - SPIE2022_poster.pdf
 - TVR_poster.pdf
 
-## **Presentation Slides:**
-- Conference_CARS_2022.pptx
-- Conference_IMNO_2021.pptx
-- Seminar.pptx
-
-## **Presentation Videos:**
-- Conference_CARS_2020.mp4
-- Conference_CARS_2022.mp4
-- Conference_SPIE_2022.mp4
-- Thesis_Defense_2022.mp4
-
 ## **Publications:**
 - Abstract_4page_SPIE_2019.pdf
 - Abstract_4page_SPIE_2022.pdf
@@ -36,3 +25,19 @@
 - Response_UMB_2022.pdf
 - Thesis_2023.pdf
 - White_Paper_2021.pdf
+
+## **Presentation Slides:**
+*Due to size restrictions, the content is available [here][1]
+- Conference_CARS_2022.pptx
+- Conference_IMNO_2021.pptx
+- Seminar.pptx
+
+## **Presentation Videos:**
+*Due to size restrictions, the content is available [here][2]
+- Conference_CARS_2020.mp4
+- Conference_CARS_2022.mp4
+- Conference_SPIE_2022.mp4
+- Thesis_Defense_2022.mp4
+
+[1]: http://slashdot.org](https://drive.google.com/drive/folders/1FsPb160V48-1Dj6i7qh8Nt6q0vIiYcAg?usp=drive_link
+[2]: https://drive.google.com/drive/folders/1zEIh7XA3yMObt4mARUyaGdNl0FBMBt8n?usp=drive_link
