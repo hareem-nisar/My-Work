@@ -18,7 +18,7 @@
 - Conference_SPIE_2022.mp4
 - Thesis_Defense_2022.mp4
 
-##**Publications:**
+## **Publications:**
 - Abstract_4page_SPIE_2019.pdf
 - Abstract_4page_SPIE_2022.pdf
 - Abstract_4page_SPIE_2023.pdf
