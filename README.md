@@ -40,5 +40,5 @@ Also available at [this][3] Google Drive location.
 - Thesis_Defense_2022.mp4
 
 [1]: http://slashdot.org](https://drive.google.com/drive/folders/1FsPb160V48-1Dj6i7qh8Nt6q0vIiYcAg?usp=drive_link
-[2]: https://drive.google.com/drive/folders/1zEIh7XA3yMObt4mARUyaGdNl0FBMBt8n?usp=drive_link
+[2]: https://drive.google.com/drive/folders/1FsPb160V48-1Dj6i7qh8Nt6q0vIiYcAg?usp=drive_link
 [3]: https://drive.google.com/drive/folders/1HvvWGbniV829gkRSY4jLwqZdEi4pmJV-?usp=sharing
